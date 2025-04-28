@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d3nathaniel
+- 👋 Hi, I’m `Nathaniel Hall`(@d3nathaniel)
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning blockchain and cosmos 
 - 💞️ I’m looking to collaborate on web3
