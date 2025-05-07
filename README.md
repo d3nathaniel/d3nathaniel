@@ -5,9 +5,3 @@
 📫 How to reach me: [@d3nathaniel on Twitter](https://twitter.com/d3nathaniel)
 😄 Pronouns: he/him  
 ⚡ Fun fact: I once built a fully on-chain game with zero frontend — just smart contracts and command-line interaction!
-
-
-<!---
-d3nathaniel/d3nathaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
